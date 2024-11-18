@@ -1,0 +1,34 @@
+.nur{
+    width: 1900px;
+    height: 900px;
+    background-color: white;
+}
+.vbn{
+   padding: 10px;
+}
+.box{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    display: flex;
+}
+.nuri{
+    display: flex;
+    justify-content: space-between;
+}
+.cvb{
+    display: flex;
+    margin: auto;
+    color: white;
+    justify-content: space-between;
+}
+.bnm{
+    display: flex;
+    justify-content: space-between;
+}
+.zokirlox{
+    display: flex;
+    margin: auto;
+    color: white;
+    justify-content: space-between;
+}
